@@ -5,3 +5,5 @@ In order to use this bot, you MUST have npm and install discord.js in the main d
 Relevant links: 
 - https://www.npmjs.com/
 - https://discord.js.org/#/
+
+DISCLAIMER: Some of the stuff here is VERY memey and based on a bunch of inside jokes from Breaking Bad.
