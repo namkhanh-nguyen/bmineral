@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 
 const client = new Discord.Client({ intents: ["GUILDS", "GUILD_MESSAGES"] });
 
-const prefix = '.';
+const prefix = '.'; //CHANGE THIS TO YOUR PREFERRED PREFIX. FOR EXAMPLE ! . - 
 
 const token = 'TOKEN'; //INSERT YOUR DISCORD BOT TOKEN HERE
 
