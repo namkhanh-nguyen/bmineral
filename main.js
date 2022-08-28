@@ -4,7 +4,7 @@ const client = new Discord.Client({ intents: ["GUILDS", "GUILD_MESSAGES"] });
 
 const prefix = '.';
 
-const token = 'MTAxMjQ5OTAwNjg3OTk2OTM4MA.GpdLsJ.1ZyykmA7xxh6SzDu-jPIHt3R7B7sOXxXRaOmcc';
+const token = 'TOKEN'; //INSERT YOUR DISCORD BOT TOKEN HERE
 
 const fs = require('fs');
 
