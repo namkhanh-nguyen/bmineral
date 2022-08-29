@@ -7,3 +7,4 @@ Relevant links:
 - https://discord.js.org/#/
 
 DISCLAIMER: Some of the stuff here is VERY memey and based on a bunch of inside jokes from Breaking Bad.
+Credits to CodeLyon for the guide. 
