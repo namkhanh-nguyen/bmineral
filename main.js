@@ -37,10 +37,6 @@ client.on('message', message =>{
     const command = args.shift().toLowerCase();
 
     //MESSAGE REACTIONS
-    if(message.content.includes('gus')){
-        message.channel.send('You guys ever had gay thoughts lmao');
-    }
-
     if(message.content.includes('saul')){
         message.channel.send('Did you know that you have rights?');
     }
